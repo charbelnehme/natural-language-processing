@@ -1,13 +1,43 @@
-# nlp-homework
+# Natural Language Processing
+
+There's been a lot of hype in the news lately about cryptocurrency, so you want to take stock, so to speak, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
+In this assignment, you will apply natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. You will also apply fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
+
+### Sentiment Analysis 
+
+Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+
+### Natural Language Processing 
+
+In this section, you will use NLTK and Python to tokenize text, find n-gram counts, and create word clouds for both coins.
+
+### Word Clouds 
+
+Generate word clouds for each coin to summarize the news for each coin.
+
+- [Navigation](#crypto-analysis)
+  - [Ethereum News Dataframe](#ethereum-news-dataframe)
+  - [Bitcoin News Dataframe](#bitcoin-news-dataframe)
+  - [Crypto News Dataframe](#crypto-news-dataframe)
+  - [Ethereum Sentiment Dataframe](#ethereum-sentiment-dataframe)
+  - [Bitcoin Sentiment Dataframe](#bitcoin-sentiment-dataframe)
+
+# Crypto Analysis
+
+### Ethereum News Dataframe 
 
 ![01_ethereum_news_df](https://user-images.githubusercontent.com/95597283/160758827-ce849ad0-ac9f-4cff-a328-b8cbaa803e99.jpg)
 
+### Bitcoin News Dataframe 
 ![02_bitcoin_news_df](https://user-images.githubusercontent.com/95597283/160758879-1a9e7127-db14-4c00-bb7f-7e310b622bf0.jpg)
 
+### Crypto News Dataframe 
 ![03_crypto_news_df](https://user-images.githubusercontent.com/95597283/160758955-237b5dfa-bc7d-4dc0-883e-1b6d1364ece5.jpg)
 
+### Ethereum Sentiment Dataframe 
 ![04_ethereum_sentiment_df](https://user-images.githubusercontent.com/95597283/160758972-4f359257-2ac3-4e31-95c4-eb6288129dbe.jpg)
 
+### Bitcoin Sentiment Dataframe
 ![05_bitcoin_sentiment_df](https://user-images.githubusercontent.com/95597283/160758981-c4d7abfc-1e9d-4166-a1b5-7b73a30b3863.jpg)
 
 ![06_btc_sentiment](https://user-images.githubusercontent.com/95597283/160758991-a6877e1b-1ddc-40bf-91af-99940bed1f85.jpg)
