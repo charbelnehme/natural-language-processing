@@ -21,6 +21,12 @@ Generate word clouds for each coin to summarize the news for each coin.
   - [Crypto News Dataframe](#crypto-news-dataframe)
   - [Ethereum Sentiment Dataframe](#ethereum-sentiment-dataframe)
   - [Bitcoin Sentiment Dataframe](#bitcoin-sentiment-dataframe)
+  - [Bitcoin News Title and Text Sentiment Comparison](#bitcoin-news-title-and-text-sentiment-comparison)
+  - [Ethereum News Title and Text Sentiment Comparison](#ethereum-news-title-and-text-sentiment-comparison)
+  - [Bitcoin Word Cloud](#bitcoin-word-cloud)
+  - [Ethereum word Cloud](#ethereum-word-cloud)
+  - [Bitcoin - Tokenizer](#bitcoin-tokenizer)
+  - [Ethereum - Tokenizer](#ethereum-tokenizer)
 
 # Crypto Analysis
 
@@ -40,18 +46,24 @@ Generate word clouds for each coin to summarize the news for each coin.
 ### Bitcoin Sentiment Dataframe
 ![05_bitcoin_sentiment_df](https://user-images.githubusercontent.com/95597283/160758981-c4d7abfc-1e9d-4166-a1b5-7b73a30b3863.jpg)
 
+### Bitcoin News Title and Text Sentiment Comparison
 ![06_btc_sentiment](https://user-images.githubusercontent.com/95597283/160758991-a6877e1b-1ddc-40bf-91af-99940bed1f85.jpg)
 
 ![bitcoin_df](https://user-images.githubusercontent.com/95597283/160759179-35fde433-00ba-4652-9f46-550f2a94d8d4.jpg)
 
+### Ethereum News Title and Text Sentiment Comparison
 ![07_eth_sentiment](https://user-images.githubusercontent.com/95597283/160758995-bcf13341-2731-4b30-8a4c-cf036f93c280.jpg)
 
 ![eth_sentiment](https://user-images.githubusercontent.com/95597283/160759204-989a755d-090f-4c2f-9421-df593e5364be.jpg)
 
+### Bitcoin - Tokenizer
 ![08_btc_tokenized](https://user-images.githubusercontent.com/95597283/160758998-7faa1541-7da1-4a82-81ec-f18f78f8ba1d.jpg)
 
+### Ethereum - Tokenizer
 ![09_eth_tokenized](https://user-images.githubusercontent.com/95597283/160759002-81cb38a6-0aab-4d0c-a0fd-d1d3bed6531c.jpg)
 
+### Bitcoin Word Cloud
 ![10_btc_cloud](https://user-images.githubusercontent.com/95597283/160759008-e1d6b26c-69ca-443b-8416-9e89fc05dc22.jpg)
 
+### Ethereum Word Cloud
 ![11_eth_cloud](https://user-images.githubusercontent.com/95597283/160759012-d1996ac8-b4f8-42c0-a109-2d57b04e5dd4.jpg)
