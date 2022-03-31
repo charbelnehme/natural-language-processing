@@ -15,7 +15,7 @@ In this section, you will use NLTK and Python to tokenize text, find n-gram coun
 
 Generate word clouds for each coin to summarize the news for each coin.
 
-- [Navigation](#crypto-analysis)
+- [Contents](#crypto-analysis)
   - [Ethereum News Dataframe](#ethereum-news-dataframe)
   - [Bitcoin News Dataframe](#bitcoin-news-dataframe)
   - [Crypto News Dataframe](#crypto-news-dataframe)
