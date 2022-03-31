@@ -15,7 +15,7 @@ In this section, you will use NLTK and Python to tokenize text, find n-gram coun
 
 Generate word clouds for each coin to summarize the news for each coin.
 
-- [Contents](#crypto-analysis)
+- [Crypto News Analysis](#crypto-news-analysis)
   - [Ethereum News Dataframe](#ethereum-news-dataframe)
   - [Bitcoin News Dataframe](#bitcoin-news-dataframe)
   - [Crypto News Dataframe](#crypto-news-dataframe)
@@ -27,6 +27,7 @@ Generate word clouds for each coin to summarize the news for each coin.
   - [Ethereum word Cloud](#ethereum-word-cloud)
   - [Bitcoin - Tokenizer](#bitcoin-tokenizer)
   - [Ethereum - Tokenizer](#ethereum-tokenizer)
+  - [Questions](#questions)
 
 # Crypto Analysis
 
@@ -67,3 +68,17 @@ Generate word clouds for each coin to summarize the news for each coin.
 
 ### Ethereum Word Cloud
 ![11_eth_cloud](https://user-images.githubusercontent.com/95597283/160759012-d1996ac8-b4f8-42c0-a109-2d57b04e5dd4.jpg)
+
+### Questions
+
+Q: Which coin had the highest mean positive score?
+
+A: 
+
+Q: Which coin had the highest compound score?
+
+A: 
+
+Q. Which coin had the highest positive score?
+
+A:
