@@ -15,10 +15,9 @@ In this section, you will use NLTK and Python to tokenize text, find n-gram coun
 
 Generate word clouds for each coin to summarize the news for each coin.
 
-- [Crypto News Analysis](#crypto-news-analysis)
+- [ETH & BTC News Analysis](#crypto-news-analysis)
   - [Ethereum News Dataframe](#ethereum-news-dataframe)
   - [Bitcoin News Dataframe](#bitcoin-news-dataframe)
-  - [Crypto News Dataframe](#crypto-news-dataframe)
   - [Ethereum Sentiment Dataframe](#ethereum-sentiment-dataframe)
   - [Bitcoin Sentiment Dataframe](#bitcoin-sentiment-dataframe)
   - [Bitcoin News Title and Text Sentiment Comparison](#bitcoin-news-title-and-text-sentiment-comparison)
@@ -27,58 +26,37 @@ Generate word clouds for each coin to summarize the news for each coin.
   - [Ethereum word Cloud](#ethereum-word-cloud)
   - [Bitcoin - Tokenizer](#bitcoin-tokenizer)
   - [Ethereum - Tokenizer](#ethereum-tokenizer)
-  - [Questions](#questions)
+  - [Bitcoin Word Cloud)(#bitcoin-word-cloud)
+  - [Ethereum Word Cloud)(#ethereum-word-cloud)
 
-# Crypto Analysis
+# ETH & BTC News Analysis
 
 ### Ethereum News Dataframe 
-
-![01_ethereum_news_df](https://user-images.githubusercontent.com/95597283/160758827-ce849ad0-ac9f-4cff-a328-b8cbaa803e99.jpg)
+![01_ethereum_news_df](https://user-images.githubusercontent.com/95597283/162154445-b91135f8-fb3f-444d-8677-e0d8b5d67740.jpg)
 
 ### Bitcoin News Dataframe 
-![02_bitcoin_news_df](https://user-images.githubusercontent.com/95597283/160758879-1a9e7127-db14-4c00-bb7f-7e310b622bf0.jpg)
-
-### Crypto News Dataframe 
-![03_crypto_news_df](https://user-images.githubusercontent.com/95597283/160758955-237b5dfa-bc7d-4dc0-883e-1b6d1364ece5.jpg)
+![02_bitcoin_news_df](https://user-images.githubusercontent.com/95597283/162154449-eb81c7d1-e086-49bb-9939-c7a9d06a861a.jpg)
 
 ### Ethereum Sentiment Dataframe 
-![04_ethereum_sentiment_df](https://user-images.githubusercontent.com/95597283/160758972-4f359257-2ac3-4e31-95c4-eb6288129dbe.jpg)
+![04_ethereum_sentiment_df](https://user-images.githubusercontent.com/95597283/162154452-58991aee-a8a3-44d1-bab5-45f10608236e.jpg)
 
 ### Bitcoin Sentiment Dataframe
-![05_bitcoin_sentiment_df](https://user-images.githubusercontent.com/95597283/160758981-c4d7abfc-1e9d-4166-a1b5-7b73a30b3863.jpg)
+![05_bitcoin_sentiment_df](https://user-images.githubusercontent.com/95597283/162154455-c9d3d528-8109-4710-99cf-8218e820f13a.jpg)
 
 ### Bitcoin News Title and Text Sentiment Comparison
-![06_btc_sentiment](https://user-images.githubusercontent.com/95597283/160758991-a6877e1b-1ddc-40bf-91af-99940bed1f85.jpg)
-
-![bitcoin_df](https://user-images.githubusercontent.com/95597283/160759179-35fde433-00ba-4652-9f46-550f2a94d8d4.jpg)
+![06_btc_sentiment](https://user-images.githubusercontent.com/95597283/162154458-d40271b2-2286-4c13-b229-3f5eb9fcb5c2.jpg)
 
 ### Ethereum News Title and Text Sentiment Comparison
-![07_eth_sentiment](https://user-images.githubusercontent.com/95597283/160758995-bcf13341-2731-4b30-8a4c-cf036f93c280.jpg)
-
-![eth_sentiment](https://user-images.githubusercontent.com/95597283/160759204-989a755d-090f-4c2f-9421-df593e5364be.jpg)
+![07_eth_sentiment](https://user-images.githubusercontent.com/95597283/162154459-e7c50b3e-5d23-4d50-be98-a51a7b0a1f59.jpg)
 
 ### Bitcoin - Tokenizer
-![08_btc_tokenized](https://user-images.githubusercontent.com/95597283/160758998-7faa1541-7da1-4a82-81ec-f18f78f8ba1d.jpg)
+![08_btc_tokenized](https://user-images.githubusercontent.com/95597283/162154461-8eb04788-9a1a-4063-bb8e-72719e2c3441.jpg)
 
 ### Ethereum - Tokenizer
-![09_eth_tokenized](https://user-images.githubusercontent.com/95597283/160759002-81cb38a6-0aab-4d0c-a0fd-d1d3bed6531c.jpg)
+![09_eth_tokenized](https://user-images.githubusercontent.com/95597283/162154465-376e5a82-b789-4f24-ab21-4c0458dacc0e.jpg)
 
 ### Bitcoin Word Cloud
-![10_btc_cloud](https://user-images.githubusercontent.com/95597283/160759008-e1d6b26c-69ca-443b-8416-9e89fc05dc22.jpg)
+![10_btc_cloud](https://user-images.githubusercontent.com/95597283/162154470-d6308220-b4ef-44f0-85e9-db085b27e21f.jpg)
 
 ### Ethereum Word Cloud
-![11_eth_cloud](https://user-images.githubusercontent.com/95597283/160759012-d1996ac8-b4f8-42c0-a109-2d57b04e5dd4.jpg)
-
-### Questions
-
-Q: Which coin had the highest mean positive score?
-
-A: 
-
-Q: Which coin had the highest compound score?
-
-A: 
-
-Q. Which coin had the highest positive score?
-
-A:
+![11_eth_cloud](https://user-images.githubusercontent.com/95597283/162154472-69c52032-34df-4359-a7cc-4e9443d92cc8.jpg)
