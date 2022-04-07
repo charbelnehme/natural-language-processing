@@ -26,8 +26,8 @@ Generate word clouds for each coin to summarize the news for each coin.
   - [Ethereum word Cloud](#ethereum-word-cloud)
   - [Bitcoin - Tokenizer](#bitcoin-tokenizer)
   - [Ethereum - Tokenizer](#ethereum-tokenizer)
-  - [Bitcoin Word Cloud)(#bitcoin-word-cloud)
-  - [Ethereum Word Cloud)(#ethereum-word-cloud)
+  - [Bitcoin Word Cloud](#bitcoin-word-cloud)
+  - [Ethereum Word Cloud](#ethereum-word-cloud)
 
 # ETH & BTC News Analysis
 
